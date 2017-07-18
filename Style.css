@@ -1,0 +1,40 @@
+﻿body {
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+}
+li {
+    float: left;
+}
+
+li a {
+    display:block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+.bodyOne{
+    text-align:center;
+}
+.center{
+    text-align:center;
+}
+.bodyTwo{
+    column-count:3;
+    column-gap:400px;
+}
+.bodyThree{
+    column-count:2;
+    column-gap:15px;
+}
+.bodyFour{
+    column-count:6;
+    column-gap:10px;
+}
